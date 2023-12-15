@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jonathan 👋
+### Hello! I'm Jonathan 👋
 
 
 
