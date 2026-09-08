@@ -33,20 +33,6 @@ Tenho desenvolvido projetos práticos envolvendo ambientes Linux na AWS, aplica�
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Projeto em destaque
-
-### [HTTP Server - Projeto Korp](https://github.com/johnmt1994/http-server-projeto-korp)
-
-Ambiente DevOps completo e reproduzível, composto por:
-
-- API HTTP desenvolvida em Go;
-- containers orquestrados com Docker Compose;
-- NGINX como proxy reverso;
-- métricas coletadas pelo Prometheus;
-- dashboard provisionado automaticamente no Grafana;
-- instalação e implantação automatizadas com Ansible;
-- pipeline de CI com testes, análise estática e build da imagem Docker;
-- execução em uma instância Linux na AWS.
 
 ## Atualmente estudando
 
